@@ -42,7 +42,7 @@ music-player-simples/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/furiousofnightgames/music-player-simples.git
+git clone https://github.com/furiousofnightt/music-player-simples.git
 cd music-player-simples
 
 # Crie o ambiente virtual e ative
